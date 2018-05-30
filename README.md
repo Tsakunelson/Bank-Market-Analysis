@@ -47,5 +47,4 @@ Classification Report
 
      (No)0       0.89      1.00      0.94     29254
     (Yes)1       0.00      0.00      0.00      3696
-
-avg / total       0.79      0.89      0.84     32950
+    avg/total    0.79      0.89      0.84      32950
